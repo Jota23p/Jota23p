@@ -39,16 +39,3 @@
 <br/>
 
 ---
-### Nível de conhecimento
-
-Abaixo há uma visão rápida do meu nível em cada linguagem listada acima. Estou estudando e praticando o uso de cada linguagem citada 😊
-
-![Python](https://img.shields.io/badge/Python-70%25-vgreen?logo=python&logoColor=white)  ███████░░░ 70% — Intermediário
-
-![HTML](https://img.shields.io/badge/HTML-60%25-yellow?logo=html5&logoColor=white)  █████░░░░░ 60% — Intermediário   
-
-![CSS](https://img.shields.io/badge/CSS-60%25-yellow?logo=css3&logoColor=white)       █████░░░░░ 50% — Intermediário
-
-![C](https://img.shields.io/badge/C-50%25-yellow?logo=c&logoColor=white)          █████░░░░░ 50% — Iniciante/Intermediário 
-
----
