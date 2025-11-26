@@ -4,8 +4,7 @@
 
 🧑🏻‍💻 João Pedro | 18 anos | Manaus, AM    
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - FAMETRO.    
-💡 Foco atual: Python, C, HTML & CSS.   
-🌱 Em busca da primeira oportunidade de estágio em programação.     
+💡 Foco atual: Python, C, HTML & CSS.        
 
 ---
 
