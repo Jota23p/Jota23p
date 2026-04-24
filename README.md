@@ -2,9 +2,9 @@
 
 **`Desenvolvedor em Formação`**
 
-🧑🏻‍💻 João Pedro | 18 anos | Manaus, AM    
+🧑🏻‍💻 João Pedro | 19 anos | Manaus, AM    
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - FAMETRO.    
-💡 Foco atual: Python, C, HTML & CSS.        
+💡 Foco atual: Python, C, Java, HTML & CSS.        
 
 ---
 
